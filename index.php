@@ -11,6 +11,10 @@
 <body>
     <h1>Hello World!</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam tempora dolore dolor, sequi voluptatum aspernatur iure eum, voluptates repellendus ullam ad officiis voluptas a numquam aliquam magni labore voluptatibus deserunt. </p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 
 </html>
